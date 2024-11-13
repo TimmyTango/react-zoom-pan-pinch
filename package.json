@@ -1,6 +1,6 @@
 {
   "name": "@timmytango/react-zoom-pan-pinch",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Zoom and pan html elements in easy way",
   "author": "prc5",
   "license": "MIT",
@@ -27,8 +27,8 @@
     "test:prettier": "npm run prettier -check \"**/*.+(js|json|ts|tsx)\""
   },
   "peerDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "*",
+    "react-dom": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.13.14",
